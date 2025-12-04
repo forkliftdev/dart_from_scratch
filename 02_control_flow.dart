@@ -7,11 +7,11 @@
 /// 'If' and 'else' statements allow the program to decide which code to execute based on relational operators. 
 /// Loops use 'like', 'for' and 'while' keywords to repeat blocks of code until a certain condition is met.
 /// Jump statements like 'break' and 'continue' also alter the flow of control within loops.
-///Control flow breaks down to three sections: the statement, the condition and the body
-////// The control flow statement has a condition that reduces to either true or false.
+/// Control flow breaks down to three sections: the statement, the condition and the body
+/// The control flow statement has a condition that reduces to either true or false.
 /// This condition, contained in parentheses, has a relational operator (like >, <, ==, !=, >=, <=).
 /// The difference between '=' and '==' helps distinguish between assignment and comparison.
-///  /// '='sets a value; '==' is a relational operator (it checks the relationship between two values). '==' checks for equality.
+/// '='sets a value; '==' is a relational operator (it checks the relationship between two values). '==' checks for equality.
 /// The body of the control flow statement, enclosed in curly braces {}, contains the code that runs if the condition is true.
 /// If the condition is false, the program skips the body and continues with the next line of code.
 void main() {
